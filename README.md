@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **CodeMaxxing** · Team ID `VTU-QFF-HC-0148` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#CodeMaxxing)
+[⬆ Back to Top](#codemaxxing)
 
 </div>
